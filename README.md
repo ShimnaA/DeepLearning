@@ -23,3 +23,8 @@
         - Use Dropout layers along wiht EarlyStopping
         - Train and Evaluate
         - Model predicts with an accuracy of 98%
+        
+    Data - [DATA/lending_club_loan_two]
+
+        - Read in data, perform EDA and visualize
+        
