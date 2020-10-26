@@ -27,4 +27,7 @@
     Data - [DATA/lending_club_loan_two]
 
         - Read in data, perform EDA and visualize
+        - Data Preprocessing - Handle Null values, Categorical column to dummy variables, 
+        - Drop some rows containing null values
+        - Train a model and evaluate and predict for a random loan data
         
